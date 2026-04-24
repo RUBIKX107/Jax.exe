@@ -1,0 +1,6 @@
+transformers
+flax 
+jax[cpu]
+requests 
+beautifulsoup4 
+optax 
