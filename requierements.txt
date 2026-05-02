@@ -1,5 +1,0 @@
-jax
-numpy
-matplotlib
-tensorflow
-tensorflow-datasets
